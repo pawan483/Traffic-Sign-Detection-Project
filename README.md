@@ -21,6 +21,6 @@ This project detects traffic signs using a CNN-based deep learning model.
 3. Test with custom images
 
 ## 📊 Model Performance
-(Add accuracy here)
+FINAL TEST ACCURACY: 0.9302 (93.02%)
 
 ---
